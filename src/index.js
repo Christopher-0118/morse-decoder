@@ -38,7 +38,13 @@ const MORSE_TABLE = {
 };
 
 function decode(expr) {
-    // write your solution here
+    
+}
+
+function divideString (expr) {
+    let dividedString = [];
+
+    
 }
 
 module.exports = {
